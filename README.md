@@ -5,11 +5,6 @@
 
 Welcome to my GitHub profile! I'm Bavadharini, a Full Stack Developer with over 2.5 years of experience specializing in Angular and Spring Boot. My expertise lies in building robust and scalable web applications, leveraging the power of front-end frameworks and back-end technologies to deliver seamless user experiences. 
 
-## GitHub Stats 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bavadharini1610&layout=compact&theme=radical) 
-![GitHub Streak](https://streak-stats.demolab.com?user=bavadharini1610&theme=radical) 
-
 ## About Me 
 
 - 🌱 I’m currently learning Spring Boot, React, and GCP Cloud.
@@ -19,7 +14,7 @@ Welcome to my GitHub profile! I'm Bavadharini, a Full Stack Developer with over 
 
 ## Skills and Technologies 
 
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30">](https://www.java.com) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="30">](https://www.java.com) 
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30">](https://www.javascript.com) 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
@@ -29,6 +24,11 @@ Welcome to my GitHub profile! I'm Bavadharini, a Full Stack Developer with over 
 [<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" height="30">](https://www.microsoft.com/en-us/sql-server) 
 [<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">](https://www.postgresql.org) 
 [<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30">](https://cloud.google.com) 
+
+## GitHub Stats 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bavadharini1610&layout=compact&theme=radical) 
+![GitHub Streak](https://streak-stats.demolab.com?user=bavadharini1610&theme=radical) 
 
 ## Connect with Me 
 
