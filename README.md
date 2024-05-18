@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm Bavadharini, a Full Stack Developer with over 
 
 ## GitHub Stats 
 
-![Bavadharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavadharini1610&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bavadharini1610&layout=compact&theme=radical) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bavadharini1610&theme=radical) 
 
