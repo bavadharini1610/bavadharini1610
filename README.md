@@ -14,16 +14,16 @@ Welcome to my GitHub profile! I'm Bavadharini, a Full Stack Developer with over 
 
 ## Skills and Technologies 
 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="36" height="36">](https://www.java.com) 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="30">](https://www.javascript.com) 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" height="30">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" height="30">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" height="30">](https://www.typescriptlang.org) 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" height="30">](https://angular.io) 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot" height="30">](https://spring.io/projects/spring-boot) 
-[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" height="30">](https://www.microsoft.com/en-us/sql-server) 
-[<img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="PostgreSQL" height="30">](https://www.postgresql.org) 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Light.svg" alt="Google Cloud" height="30">](https://cloud.google.com) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="40" height="40">](https://www.java.com) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40">](https://www.javascript.com) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40">](https://www.typescriptlang.org) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" width="40" height="40">](https://angular.io) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot" width="40" height="40">](https://spring.io/projects/spring-boot) 
+[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40">](https://www.microsoft.com/en-us/sql-server) 
+[<img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="PostgreSQL" width="40" height="40">](https://www.postgresql.org) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Light.svg" alt="Google Cloud" width="40" height="40">](https://cloud.google.com) 
 
 ## GitHub Stats 
 
