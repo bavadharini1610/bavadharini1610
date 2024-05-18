@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Bavadharini, a Full Stack Developer with over 
 
 ## Skills and Technologies 
 
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="40" height="40">](https://www.java.com) 
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50">](https://www.java.com) 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40">](https://www.javascript.com) 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
