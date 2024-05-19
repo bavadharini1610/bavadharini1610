@@ -25,11 +25,6 @@ Welcome to my GitHub profile! I'm Bavadharini, a Full Stack Developer with over 
 [<img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="PostgreSQL" width="50" height="50">](https://www.postgresql.org) 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Light.svg" alt="Google Cloud" width="50" height="50">](https://cloud.google.com) 
 
-## GitHub Stats 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bavadharini1610&layout=compact&theme=radical) 
-![GitHub Streak](https://streak-stats.demolab.com?user=bavadharini1610&theme=radical) 
-
 ## Connect with Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bavadharini-ashok-kumar/)
