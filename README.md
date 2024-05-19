@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm Bavadharini, a Full Stack Developer with over 
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bavadharini1610)](https://git.io/streak-stats)
 
 ## Connect with Me 
 
